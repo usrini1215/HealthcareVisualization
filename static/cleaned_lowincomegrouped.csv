@@ -1,0 +1,394 @@
+race,county,families_below_the_living_wage,number_of_families,living_wage,percent_of_families_below_the_living_wage
+AIAN,Alameda,158.5,285.0,24.74,55.61
+AIAN,Butte,56.0,91.5,20.88,61.2
+AIAN,Contra Costa,23.0,125.5,24.74,18.33
+AIAN,Del Norte,0.0,22.0,20.71,0.0
+AIAN,El Dorado,3.5,66.0,22.26,5.3
+AIAN,Fresno,98.0,187.5,20.79,52.27
+AIAN,Glenn,23.0,35.0,20.1,65.71
+AIAN,Humboldt,148.5,318.5,21.26,46.62
+AIAN,Imperial,69.5,92.0,20.83,75.54
+AIAN,Inyo,37.5,72.5,20.43,51.72
+AIAN,Kern,106.0,238.5,20.49,44.44
+AIAN,Kings,32.5,59.5,20.43,54.62
+AIAN,Lake,33.0,72.0,21.12,45.83
+AIAN,Lassen,34.5,34.5,20.99,100.0
+AIAN,Los Angeles,286.0,651.0,25.05,43.93
+AIAN,Madera,41.0,87.0,20.94,47.13
+AIAN,Mendocino,146.5,165.0,21.74,88.79
+AIAN,Merced,20.0,29.5,20.49,67.8
+AIAN,Monterey,14.5,37.0,22.86,39.19
+AIAN,Nevada,24.5,24.5,22.83,100.0
+AIAN,Orange,132.0,333.5,26.33,39.58
+AIAN,Placer,14.5,151.0,22.26,9.6
+AIAN,Riverside,155.5,565.0,22.76,27.52
+AIAN,Sacramento,272.5,499.5,22.26,54.55
+AIAN,San Bernardino,201.0,415.5,22.76,48.38
+AIAN,San Diego,282.5,601.5,24.34,46.97
+AIAN,San Francisco,100.0,144.0,27.55,69.44
+AIAN,San Joaquin,41.5,90.0,21.58,46.11
+AIAN,San Luis Obispo,20.0,97.0,23.14,20.62
+AIAN,San Mateo,44.0,107.5,27.55,40.93
+AIAN,Santa Barbara,55.5,108.0,23.87,51.39
+AIAN,Santa Clara,82.0,243.5,25.18,33.68
+AIAN,Shasta,79.0,135.0,20.7,58.52
+AIAN,Siskiyou,28.0,45.0,20.27,62.22
+AIAN,Solano,76.0,190.0,23.51,40.0
+AIAN,Sonoma,54.0,198.5,24.22,27.2
+AIAN,Stanislaus,41.0,82.5,21.46,49.7
+AIAN,Sutter,10.0,52.5,20.23,19.05
+AIAN,Tehama,10.0,24.5,20.34,40.82
+AIAN,Tulare,94.5,138.5,19.56,68.23
+AIAN,Tuolumne,0.0,2.5,21.66,0.0
+AIAN,Ventura,9.5,82.5,25.49,11.52
+AIAN,Yolo,31.0,59.5,22.35,52.1
+AIAN,Yuba,33.5,69.0,20.23,48.55
+AfricanAm,Alameda,5924.5,9367.5,24.74,63.25
+AfricanAm,Amador,0.0,0.0,22.44,
+AfricanAm,Butte,108.0,139.5,20.88,77.42
+AfricanAm,Contra Costa,2634.0,5390.5,24.74,48.86
+AfricanAm,Del Norte,0.0,0.0,20.71,
+AfricanAm,Fresno,1620.5,2512.0,20.79,64.51
+AfricanAm,Humboldt,23.5,41.0,21.26,57.32
+AfricanAm,Imperial,5.0,55.5,20.83,9.01
+AfricanAm,Kern,1272.0,2191.5,20.49,58.04
+AfricanAm,Kings,85.5,539.5,20.43,15.85
+AfricanAm,Lake,31.0,65.5,21.12,47.33
+AfricanAm,Lassen,0.0,2.0,20.99,0.0
+AfricanAm,Los Angeles,23308.0,40429.5,25.05,57.65
+AfricanAm,Madera,67.5,136.5,20.94,49.45
+AfricanAm,Marin,168.0,266.5,27.55,63.04
+AfricanAm,Merced,235.5,482.0,20.49,48.86
+AfricanAm,Monterey,177.0,374.0,22.86,47.33
+AfricanAm,Napa,51.0,136.5,24.54,37.36
+AfricanAm,Orange,832.0,2296.0,26.33,36.24
+AfricanAm,Placer,98.0,325.0,22.26,30.15
+AfricanAm,Riverside,2933.0,7046.5,22.76,41.62
+AfricanAm,Sacramento,4890.5,8394.5,22.26,58.26
+AfricanAm,San Bernardino,5015.0,10227.0,22.76,49.04
+AfricanAm,San Diego,4055.5,7750.0,24.34,52.33
+AfricanAm,San Francisco,1175.0,1610.0,27.55,72.98
+AfricanAm,San Joaquin,1471.0,2846.0,21.58,51.69
+AfricanAm,San Luis Obispo,5.5,94.5,23.14,5.82
+AfricanAm,San Mateo,394.0,753.0,27.55,52.32
+AfricanAm,Santa Barbara,127.5,332.0,23.87,38.4
+AfricanAm,Santa Clara,893.5,2175.5,25.18,41.07
+AfricanAm,Santa Cruz,43.0,109.5,26.78,39.27
+AfricanAm,Shasta,60.5,88.0,20.7,68.75
+AfricanAm,Solano,1559.0,3091.0,23.51,50.44
+AfricanAm,Sonoma,93.0,226.0,24.22,41.15
+AfricanAm,Stanislaus,437.0,840.5,21.46,51.99
+AfricanAm,Sutter,7.0,67.5,20.23,10.37
+AfricanAm,Tulare,171.0,354.5,19.56,48.24
+AfricanAm,Tuolumne,0.5,3.0,21.66,16.67
+AfricanAm,Ventura,229.5,820.0,25.49,27.99
+AfricanAm,Yolo,76.0,183.5,22.35,41.42
+AfricanAm,Yuba,27.5,73.5,20.23,37.41
+Asian,Alameda,4315.5,23294.5,24.74,18.53
+Asian,Butte,250.5,483.5,20.88,51.81
+Asian,Contra Costa,1324.0,9079.5,24.74,14.58
+Asian,Del Norte,19.5,32.0,20.71,60.94
+Asian,El Dorado,53.0,443.0,22.26,11.96
+Asian,Fresno,1682.5,4635.0,20.79,36.3
+Asian,Humboldt,51.0,124.5,21.26,40.96
+Asian,Imperial,23.0,103.0,20.83,22.33
+Asian,Kern,493.5,1737.5,20.49,28.4
+Asian,Kings,105.0,358.0,20.43,29.33
+Asian,Lassen,72.5,80.0,20.99,90.62
+Asian,Los Angeles,19265.5,65079.0,25.05,29.6
+Asian,Madera,44.5,118.0,20.94,37.71
+Asian,Marin,207.5,906.5,27.55,22.89
+Asian,Mendocino,22.5,88.5,21.74,25.42
+Asian,Merced,330.5,1024.0,20.49,32.28
+Asian,Monterey,206.5,1101.5,22.86,18.75
+Asian,Napa,77.0,527.5,24.54,14.6
+Asian,Nevada,13.5,57.0,22.83,23.68
+Asian,Orange,8312.5,30139.0,26.33,27.58
+Asian,Placer,121.5,1421.0,22.26,8.55
+Asian,Riverside,1530.0,6870.5,22.76,22.27
+Asian,Sacramento,3474.0,11821.0,22.26,29.39
+Asian,San Benito,41.0,72.0,23.44,56.94
+Asian,San Bernardino,1627.5,7121.5,22.76,22.85
+Asian,San Diego,3905.5,17437.5,24.34,22.4
+Asian,San Francisco,3436.5,9560.0,27.55,35.95
+Asian,San Joaquin,1846.0,5804.0,21.58,31.81
+Asian,San Luis Obispo,53.0,300.5,23.14,17.64
+Asian,San Mateo,1331.5,9414.5,27.55,14.14
+Asian,Santa Barbara,201.0,989.5,23.87,20.31
+Asian,Santa Clara,5149.0,35822.5,25.18,14.37
+Asian,Santa Cruz,93.0,445.0,26.78,20.9
+Asian,Shasta,116.0,272.0,20.7,42.65
+Asian,Siskiyou,18.5,25.0,20.27,74.0
+Asian,Solano,515.0,2839.5,23.51,18.14
+Asian,Sonoma,295.0,1075.5,24.22,27.43
+Asian,Stanislaus,435.0,1489.5,21.46,29.2
+Asian,Sutter,210.0,669.0,20.23,31.39
+Asian,Tehama,0.0,42.0,20.34,0.0
+Asian,Tulare,189.0,732.0,19.56,25.82
+Asian,Tuolumne,0.0,10.0,21.66,0.0
+Asian,Ventura,580.5,3369.0,25.49,17.23
+Asian,Yolo,321.5,1009.0,22.35,31.86
+Asian,Yuba,141.5,293.0,20.23,48.29
+Latino,Alameda,8154.5,17259.5,24.74,47.25
+Latino,Amador,46.0,118.0,22.44,38.98
+Latino,Butte,779.0,1470.5,20.88,52.98
+Latino,Calaveras,36.0,149.0,20.88,24.16
+Latino,Colusa,478.5,714.5,20.8,66.97
+Latino,Contra Costa,6393.5,14773.0,24.74,43.28
+Latino,Del Norte,82.5,190.5,20.71,43.31
+Latino,El Dorado,547.0,1290.0,22.26,42.4
+Latino,Fresno,15273.0,26455.0,20.79,57.73
+Latino,Glenn,287.5,633.0,20.1,45.42
+Latino,Humboldt,286.0,529.5,21.26,54.01
+Latino,Imperial,4352.5,8342.0,20.83,52.18
+Latino,Inyo,109.0,190.0,20.43,57.37
+Latino,Kern,13007.0,24333.0,20.49,53.45
+Latino,Kings,2180.0,4001.5,20.43,54.48
+Latino,Lake,248.5,500.5,21.12,49.65
+Latino,Lassen,30.0,90.0,20.99,33.33
+Latino,Los Angeles,151217.5,260639.5,25.05,58.02
+Latino,Madera,2479.5,4384.0,20.94,56.56
+Latino,Marin,1066.0,2033.5,27.55,52.42
+Latino,Mariposa,47.5,116.0,21.36,40.95
+Latino,Mendocino,765.5,1245.5,21.74,61.46
+Latino,Merced,4738.5,8743.5,20.49,54.19
+Latino,Modoc,59.0,68.0,20.55,86.76
+Latino,Mono,106.5,194.5,23.16,54.76
+Latino,Monterey,6363.0,12580.5,22.86,50.58
+Latino,Napa,1388.5,2788.5,24.54,49.79
+Latino,Nevada,147.0,412.0,22.83,35.68
+Latino,Orange,28369.5,54822.0,26.33,51.75
+Latino,Placer,844.0,2588.0,22.26,32.61
+Latino,Plumas,132.5,146.5,21.14,90.44
+Latino,Riverside,26079.5,57389.0,22.76,45.44
+Latino,Sacramento,8615.0,17360.5,22.26,49.62
+Latino,San Benito,640.5,1749.5,23.44,36.61
+Latino,San Bernardino,25374.5,56402.5,22.76,44.99
+Latino,San Diego,30156.5,55564.5,24.34,54.27
+Latino,San Francisco,2303.5,4384.5,27.55,52.54
+Latino,San Joaquin,7594.0,15548.0,21.58,48.84
+Latino,San Luis Obispo,1571.0,2888.5,23.14,54.39
+Latino,San Mateo,4716.0,9913.0,27.55,47.57
+Latino,Santa Barbara,5054.5,9557.0,23.87,52.89
+Latino,Santa Clara,12308.0,25699.5,25.18,47.89
+Latino,Santa Cruz,2851.0,4814.5,26.78,59.22
+Latino,Shasta,354.5,715.5,20.7,49.55
+Latino,Siskiyou,122.0,229.0,20.27,53.28
+Latino,Solano,2252.0,5587.0,23.51,40.31
+Latino,Sonoma,3472.0,7036.0,24.22,49.35
+Latino,Stanislaus,6549.0,13343.5,21.46,49.08
+Latino,Sutter,969.0,1751.0,20.23,55.34
+Latino,Tehama,522.0,811.0,20.34,64.36
+Latino,Trinity,1.0,8.5,20.37,11.76
+Latino,Tulare,9241.0,16087.0,19.56,57.44
+Latino,Tuolumne,71.5,149.0,21.66,47.99
+Latino,Ventura,8613.0,18394.5,25.49,46.82
+Latino,Yolo,1773.5,3458.0,22.35,51.29
+Latino,Yuba,498.0,1056.5,20.23,47.14
+Multiple,Alameda,538.0,1780.5,24.74,30.22
+Multiple,Amador,23.5,32.5,22.44,72.31
+Multiple,Butte,151.5,301.5,20.88,50.25
+Multiple,Calaveras,23.5,40.0,20.88,58.75
+Multiple,Contra Costa,370.0,1346.0,24.74,27.49
+Multiple,Del Norte,32.5,69.5,20.71,46.76
+Multiple,El Dorado,49.0,154.0,22.26,31.82
+Multiple,Fresno,268.0,692.5,20.79,38.7
+Multiple,Humboldt,121.0,205.0,21.26,59.02
+Multiple,Imperial,7.0,32.5,20.83,21.54
+Multiple,Kern,296.0,645.0,20.49,45.89
+Multiple,Kings,10.5,54.5,20.43,19.27
+Multiple,Lake,1.5,32.5,21.12,4.62
+Multiple,Lassen,5.0,10.5,20.99,47.62
+Multiple,Los Angeles,1637.5,5078.0,25.05,32.25
+Multiple,Madera,68.0,114.5,20.94,59.39
+Multiple,Marin,43.5,145.5,27.55,29.9
+Multiple,Mendocino,33.0,41.5,21.74,79.52
+Multiple,Merced,64.0,135.5,20.49,47.23
+Multiple,Monterey,70.5,252.0,22.86,27.98
+Multiple,Napa,10.5,86.0,24.54,12.21
+Multiple,Nevada,2.0,78.0,22.83,2.56
+Multiple,Orange,597.5,2098.5,26.33,28.47
+Multiple,Placer,77.0,300.0,22.26,25.67
+Multiple,Riverside,412.0,1594.0,22.76,25.85
+Multiple,Sacramento,779.0,1910.0,22.26,40.79
+Multiple,San Benito,23.5,65.0,23.44,36.15
+Multiple,San Bernardino,604.0,1634.0,22.76,36.96
+Multiple,San Diego,1142.5,3166.5,24.34,36.08
+Multiple,San Francisco,145.0,464.5,27.55,31.22
+Multiple,San Joaquin,315.0,800.0,21.58,39.38
+Multiple,San Luis Obispo,55.0,158.5,23.14,34.7
+Multiple,San Mateo,111.5,613.0,27.55,18.19
+Multiple,Santa Barbara,69.0,228.5,23.87,30.2
+Multiple,Santa Clara,415.5,1505.5,25.18,27.6
+Multiple,Santa Cruz,153.0,267.0,26.78,57.3
+Multiple,Shasta,179.0,211.5,20.7,84.63
+Multiple,Siskiyou,33.0,80.0,20.27,41.25
+Multiple,Solano,308.5,719.5,23.51,42.88
+Multiple,Sonoma,97.5,348.5,24.22,27.98
+Multiple,Stanislaus,206.0,499.0,21.46,41.28
+Multiple,Sutter,72.0,180.0,20.23,40.0
+Multiple,Tehama,21.5,48.0,20.34,44.79
+Multiple,Trinity,37.5,62.0,20.37,60.48
+Multiple,Tulare,123.0,368.0,19.56,33.42
+Multiple,Tuolumne,0.5,26.5,21.66,1.89
+Multiple,Ventura,166.0,643.0,25.49,25.82
+Multiple,Yolo,40.0,210.5,22.35,19.0
+Multiple,Yuba,63.5,138.0,20.23,46.01
+NHOPI,Alameda,160.5,647.0,24.74,24.81
+NHOPI,Butte,14.0,21.5,20.88,65.12
+NHOPI,Contra Costa,101.5,261.5,24.74,38.81
+NHOPI,Fresno,32.0,119.0,20.79,26.89
+NHOPI,Humboldt,12.5,17.5,21.26,71.43
+NHOPI,Kern,8.0,10.0,20.49,80.0
+NHOPI,Los Angeles,474.0,1152.5,25.05,41.13
+NHOPI,Monterey,17.5,72.5,22.86,24.14
+NHOPI,Orange,144.5,472.0,26.33,30.61
+NHOPI,Riverside,56.5,319.5,22.76,17.68
+NHOPI,Sacramento,279.5,756.5,22.26,36.95
+NHOPI,San Bernardino,32.0,248.5,22.76,12.88
+NHOPI,San Diego,244.0,713.0,24.34,34.22
+NHOPI,San Francisco,146.0,261.0,27.55,55.94
+NHOPI,San Joaquin,40.5,179.5,21.58,22.56
+NHOPI,San Mateo,113.0,493.0,27.55,22.92
+NHOPI,Santa Clara,126.5,321.5,25.18,39.35
+NHOPI,Solano,94.5,290.5,23.51,32.53
+NHOPI,Sonoma,0.0,76.0,24.22,0.0
+NHOPI,Stanislaus,35.5,195.5,21.46,18.16
+NHOPI,Ventura,0.0,63.5,25.49,0.0
+NHOPI,Yolo,26.5,75.5,22.35,35.1
+Other,Alameda,147.0,312.5,24.74,47.04
+Other,Contra Costa,77.5,226.0,24.74,34.29
+Other,Fresno,90.0,174.5,20.79,51.58
+Other,Kern,28.0,55.5,20.49,50.45
+Other,Los Angeles,530.5,1438.0,25.05,36.89
+Other,Monterey,18.0,30.0,22.86,60.0
+Other,Orange,158.5,380.5,26.33,41.66
+Other,Placer,0.0,28.0,22.26,0.0
+Other,Riverside,366.0,620.0,22.76,59.03
+Other,Sacramento,73.0,214.5,22.26,34.03
+Other,San Bernardino,147.5,300.5,22.76,49.08
+Other,San Diego,106.5,452.0,24.34,23.56
+Other,San Francisco,17.0,72.5,27.55,23.45
+Other,San Joaquin,21.0,101.0,21.58,20.79
+Other,San Mateo,21.5,80.5,27.55,26.71
+Other,Santa Clara,64.5,331.0,25.18,19.49
+Other,Solano,64.0,190.0,23.51,33.68
+Other,Sonoma,0.0,31.0,24.22,0.0
+Other,Tulare,32.0,35.5,19.56,90.14
+Other,Ventura,33.0,97.0,25.49,34.02
+Total,Alameda,2209.1666666666665,7417.0,24.74,29.79
+Total,Alpine,4.0,38.0,21.36,10.53
+Total,Amador,139.5,431.3,22.44,32.34
+Total,Butte,551.3461538461538,1363.6923076923076,20.88,40.43
+Total,Calaveras,75.22222222222223,326.05555555555554,20.87,23.07
+Total,Colusa,256.875,503.375,20.8,51.03
+Total,Contra Costa,805.7083333333334,3175.6944444444443,24.73,25.37
+Total,Del Norte,182.25,384.375,20.71,47.41
+Total,El Dorado,378.5,1842.2777777777778,22.25,20.55
+Total,Fresno,1717.86,3739.76,20.79,45.94
+Total,Glenn,240.25,626.125,20.1,38.37
+Total,Humboldt,270.38235294117646,627.5294117647059,21.26,43.09
+Total,Imperial,741.7083333333334,1547.1666666666667,20.83,47.94
+Total,Inyo,55.888888888888886,168.33333333333334,20.43,33.2
+Total,Kern,882.1951219512196,2040.1829268292684,20.49,43.24
+Total,Kings,596.25,1525.3,20.43,39.09
+Total,Lake,206.03846153846155,408.4230769230769,21.12,50.45
+Total,Lassen,207.16666666666666,729.8333333333334,20.99,28.39
+Total,Los Angeles,3504.027777777778,7819.257936507936,25.05,44.81
+Total,Madera,668.3333333333334,1472.2777777777778,20.94,45.39
+Total,Marin,247.8409090909091,1154.25,27.55,21.47
+Total,Mariposa,101.33333333333333,299.8333333333333,21.36,33.8
+Total,Mendocino,346.625,722.0,21.74,48.01
+Total,Merced,957.4230769230769,2063.769230769231,20.49,46.39
+Total,Modoc,144.0,284.5,20.55,50.62
+Total,Mono,180.5,570.5,23.17,31.64
+Total,Monterey,622.32,1538.94,22.89,40.44
+Total,Napa,518.125,1606.0625,24.54,32.26
+Total,Nevada,283.5625,890.75,22.83,31.83
+Total,Orange,2590.0263157894738,8257.078947368422,26.33,31.37
+Total,Placer,449.53333333333336,2469.0,22.26,18.21
+Total,Plumas,136.16666666666666,265.25,21.14,51.34
+Total,Riverside,1527.23,4318.41,22.76,35.37
+Total,Sacramento,2299.695652173913,6357.5,22.26,36.17
+Total,San Benito,439.875,1470.5,23.44,29.91
+Total,San Bernardino,2021.3875,5350.3,22.76,37.78
+Total,San Diego,2285.744680851064,6534.148936170212,24.35,34.98
+Total,San Francisco,8649.5,26494.0,27.55,32.65
+Total,San Joaquin,1519.5833333333333,4075.722222222222,21.58,37.28
+Total,San Luis Obispo,417.8125,1319.3125,23.14,31.67
+Total,San Mateo,582.4137931034483,2549.4310344827586,27.55,22.84
+Total,Santa Barbara,770.9736842105264,2019.0263157894738,23.87,38.19
+Total,Santa Clara,1809.04,7887.26,25.18,22.94
+Total,Santa Cruz,463.1,1189.525,26.79,38.93
+Total,Shasta,604.0,1481.7,20.7,40.76
+Total,Sierra,18.0,78.0,22.29,23.08
+Total,Siskiyou,137.36363636363637,289.6818181818182,20.27,47.42
+Total,Solano,1485.4444444444443,4795.055555555556,23.51,30.98
+Total,Sonoma,623.4318181818181,2018.0227272727273,24.21,30.89
+Total,Stanislaus,916.804347826087,2384.608695652174,21.45,38.45
+Total,Sutter,900.0,2554.625,20.23,35.23
+Total,Tehama,400.8333333333333,792.0,20.34,50.61
+Total,Trinity,77.375,165.875,20.37,46.65
+Total,Tulare,786.9814814814815,1711.8333333333333,19.56,45.97
+Total,Tuolumne,126.94444444444444,353.55555555555554,21.66,35.91
+Total,Ventura,1317.1052631578948,4601.736842105263,25.49,28.62
+Total,Yolo,1059.5,3245.5,22.35,32.65
+Total,Yuba,405.875,911.75,20.23,44.52
+White,Alameda,3830.0,25098.5,24.74,15.26
+White,Alpine,1.5,31.0,21.36,4.84
+White,Amador,371.5,1322.5,22.44,28.09
+White,Butte,2461.5,7236.0,20.88,34.02
+White,Calaveras,343.5,1558.0,20.88,22.05
+White,Colusa,90.5,421.0,20.8,21.5
+White,Contra Costa,3866.0,27841.5,24.74,13.89
+White,Del Norte,382.5,837.5,20.71,45.67
+White,El Dorado,1276.5,7690.0,22.26,16.6
+White,Fresno,3783.5,15758.0,20.79,24.01
+White,Glenn,238.0,855.0,20.1,27.84
+White,Humboldt,1979.5,4886.0,21.26,40.51
+White,Imperial,188.0,1068.0,20.83,17.6
+White,Inyo,97.0,538.5,20.43,18.01
+White,Kern,4836.5,16458.5,20.49,29.39
+White,Kings,730.0,3059.0,20.43,23.86
+White,Lake,1094.5,2248.5,21.12,48.68
+White,Lassen,221.5,1148.5,20.99,19.29
+White,Los Angeles,25422.0,124251.5,25.05,20.46
+White,Madera,694.0,2671.5,20.94,25.98
+White,Marin,1326.5,9804.0,27.55,13.53
+White,Mariposa,195.5,578.0,21.36,33.82
+White,Mendocino,922.0,2586.0,21.74,35.65
+White,Merced,1319.5,4341.0,20.49,30.4
+White,Modoc,123.0,313.5,20.55,39.23
+White,Mono,100.5,494.0,23.16,20.34
+White,Monterey,1117.5,6060.5,22.86,18.44
+White,Napa,597.0,3234.0,24.54,18.46
+White,Nevada,1198.0,4052.0,22.83,29.57
+White,Orange,11126.0,68802.0,26.33,16.17
+White,Placer,2426.0,15221.0,22.26,15.94
+White,Plumas,301.0,804.0,21.14,37.44
+White,Riverside,8999.5,42467.5,22.76,21.19
+White,Sacramento,9310.5,35687.0,22.26,26.09
+White,San Benito,168.0,1305.5,23.44,12.87
+White,San Bernardino,9246.5,35164.0,22.76,26.3
+White,San Diego,14748.5,71837.0,24.34,20.53
+White,San Francisco,1326.0,9997.5,27.55,13.26
+White,San Joaquin,3034.5,13437.0,21.58,22.58
+White,San Luis Obispo,1913.5,8314.5,23.14,23.01
+White,San Mateo,1838.0,16124.5,27.55,11.4
+White,Santa Barbara,1974.0,8978.0,23.87,21.99
+White,Santa Clara,3655.0,33218.5,25.18,11.0
+White,Santa Cruz,1683.5,7078.5,26.78,23.78
+White,Shasta,2632.0,7173.0,20.7,36.69
+White,Sierra,16.5,94.0,22.29,17.55
+White,Siskiyou,714.0,1646.5,20.27,43.36
+White,Solano,1950.0,9090.0,23.51,21.45
+White,Sonoma,3316.5,15179.5,24.22,21.85
+White,Stanislaus,3409.0,12266.0,21.46,27.79
+White,Sutter,689.0,2923.5,20.23,23.57
+White,Tehama,953.5,2319.5,20.34,41.11
+White,Trinity,163.5,338.0,20.37,48.37
+White,Tulare,1830.5,7569.0,19.56,24.18
+White,Tuolumne,630.5,1918.5,21.66,32.86
+White,Ventura,3240.0,21579.0,25.49,15.01
+White,Yolo,1029.0,5056.5,22.35,20.35
+White,Yuba,924.5,2486.5,20.23,37.18
